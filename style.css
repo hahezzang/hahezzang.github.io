@@ -49,6 +49,8 @@ h1, h2, h3, p { margin: 0; }
 .hero h1 .big { width: 36px; height: 36px; margin-top: -.15em; }
 .role { font-size: 18px; color: var(--text); margin-top: 6px; }
 .intro { margin-top: 16px; font-size: 15px; }
+.personal-note { margin-top: 12px; font-size: 15px; }
+.personal-note strong { color: var(--pink); font-weight: 700; }
 .edu { display: flex; gap: 16px; margin-top: 16px; font-size: 13px; color: var(--muted); }
 .edu svg { width: 26px; height: 26px; flex: none; color: var(--text); }
 
