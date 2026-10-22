@@ -139,7 +139,8 @@ footer .hand { font-size: 18px; margin-bottom: 0; }
   .trio, .bottom { padding: 20px 16px; gap: 28px; }
   .education { padding: 20px 16px 0; }
   .nav { padding: 12px 16px; }
-  .motto { grid-template-columns: 1fr; gap: 10px; }
+  .motto { grid-template-columns: 1fr; gap: 20px; }
+  .motto .hand { text-align: center; transform: none; }
   .motto p:last-child { border-left: 0; padding-left: 0; }
   .pubs li { grid-template-columns: 1fr auto; }
   .doc { display: none; }
